@@ -45,7 +45,8 @@ tipos de dados:
 
 int: números inteiros
 float: números decimais
-string ou str: caracteres -> sinalizados entre ''
+char: caracteres -> sinalizados entre ''
+string ou str: sequencia de caracteres -> sinalizados entre ''
 bool: booleano: true ou false (1  ou 0)
 const: variável constante
  
