@@ -1,0 +1,42 @@
+Pensar como um programador: 
+Dividir problemas grandes em partes menores
+Antecipar erros e casos
+Não deixar passos implícitos
+Testar, corrigir e melhorar
+
+Pseudocódigo:
+Exemplo python(
+
+Para cada item na lista de compras:
+	Se o item for 'Leite':
+		Compre 2 caixas;
+)
+=
+(
+
+for item in lista_de_compras:
+	if item == 'Leite':
+		buy(2);
+
+)
+
+Exemplo pseudocódigo:
+
+INÍCIO
+	ler A
+	ler B
+	SOMA = A + B
+	escrever SOMA
+FIM
+
+Modelo IPO (entrada, processamento e saída):
+
+Entrada: nota 1, nota 2
+
+Processamento: media = (nota 1 + nota 2)/2
+
+Saída: media
+
+
+Refinamento: Escrever -> Testar -> Corrigir -> Melhorar
+
