@@ -49,4 +49,13 @@ char: caracteres -> sinalizados entre ''
 string ou str: sequencia de caracteres -> sinalizados entre ''
 bool: booleano: true ou false (1  ou 0)
 const: variável constante
- 
+
+operadores lógicos:
+
+Relacionais:
+< : menor
+> : maior
+>= : maior ou igual
+<= : menor ou igual
+== : igual (em comparação)
+!= : diferente 
